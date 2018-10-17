@@ -1,4 +1,4 @@
-baseURL = "https://ryanfleck.github.io/"
+baseURL = "https://ryanfleck.github.io/hugo-test/"
 languageCode = "en-us"
 title = "Ryan Fleck"
 theme = "ananke"
