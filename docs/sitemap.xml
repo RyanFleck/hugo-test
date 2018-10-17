@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ryanfleck.github.io/categories/</loc>
+    <loc>https://ryanfleck.github.io/hugo-test/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ryanfleck.github.io/</loc>
+    <loc>https://ryanfleck.github.io/hugo-test/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ryanfleck.github.io/tags/</loc>
+    <loc>https://ryanfleck.github.io/hugo-test/tags/</loc>
     <priority>0</priority>
   </url>
   
