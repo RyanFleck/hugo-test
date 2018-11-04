@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Ryan Fleck</h1>
+  {{ range first 10 .Data.Pages }}
+    <h3><a href={{ .Permalink }}>{{ .Title }}</a></h3>
+  {{ end }}
+</body>
+</html>

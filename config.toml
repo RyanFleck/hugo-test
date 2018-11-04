@@ -1,5 +1,5 @@
 baseURL = "https://ryanfleck.github.io/hugo-test/"
 languageCode = "en-us"
+theme = "rcf"
 title = "Ryan Fleck"
-theme = "ananke"
 publishDir = "docs"

@@ -3,24 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ryanfleck.github.io/hugo-test/posts/post-one/</loc>
-    <lastmod>2018-10-16T21:01:25-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ryanfleck.github.io/hugo-test/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ryanfleck.github.io/hugo-test/posts/</loc>
-    <lastmod>2018-10-16T21:01:25-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ryanfleck.github.io/hugo-test/</loc>
-    <lastmod>2018-10-16T21:01:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   
