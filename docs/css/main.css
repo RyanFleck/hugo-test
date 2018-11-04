@@ -1,0 +1,22 @@
+html {
+    color: #333;
+    background:#DDD;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+@media (prefers-dark-interface){
+    body {
+        color: white;
+        background: black;
+    }
+}

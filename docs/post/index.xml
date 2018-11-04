@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ryan Fleck</title>
-    <link>//ryanfleck.github.io/hugo-test/</link>
-    <description>Recent content on Ryan Fleck</description>
+    <title>Posts on Ryan Fleck</title>
+    <link>//ryanfleck.github.io/hugo-test/post/</link>
+    <description>Recent content in Posts on Ryan Fleck</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Nov 2018 12:07:37 -0500</lastBuildDate>
     
-	<atom:link href="//ryanfleck.github.io/hugo-test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//ryanfleck.github.io/hugo-test/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,15 +27,6 @@
       
       <guid>//ryanfleck.github.io/hugo-test/post/post-two/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed neque id mauris rhoncus egestas ut lacinia neque. Duis eget lorem nec nisl rhoncus eleifend. Duis sit amet pretium odio, elementum rutrum odio. Donec id nisl id purus scelerisque viverra. Aliquam rutrum tellus felis, sed aliquam ex rhoncus eget. Fusce posuere ligula a sem sagittis hendrerit. Sed efficitur lectus nulla, et mollis turpis imperdiet ut. Quisque sagittis tellus non nulla faucibus fermentum vel pulvinar augue.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>//ryanfleck.github.io/hugo-test/about/</link>
-      <pubDate>Sun, 04 Nov 2018 12:03:41 -0500</pubDate>
-      
-      <guid>//ryanfleck.github.io/hugo-test/about/</guid>
-      <description>about me Hi there, you just reached my blog.</description>
     </item>
     
     <item>
