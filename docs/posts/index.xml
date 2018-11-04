@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ryan Fleck</title>
-    <link>https://ryanfleck.github.io/hugo-test/</link>
-    <description>Recent content on Ryan Fleck</description>
+    <title>Posts on Ryan Fleck</title>
+    <link>https://ryanfleck.github.io/hugo-test/posts/</link>
+    <description>Recent content in Posts on Ryan Fleck</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Oct 2018 21:01:25 -0400</lastBuildDate>
     
-	<atom:link href="https://ryanfleck.github.io/hugo-test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ryanfleck.github.io/hugo-test/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
