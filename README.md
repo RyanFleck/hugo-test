@@ -19,3 +19,5 @@ Development:
 hugo serve
 ```
 
+Resources:
+1. <https://www.zeolearn.com/magazine/develop-a-theme-for-hugo>

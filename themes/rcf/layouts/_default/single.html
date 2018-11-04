@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>{{ .Title }}</title>
-</head>
-<body>
-  <h1>{{ .Title }}</h1>
-  <p>{{ .Date }}</p>
-  {{ .Content }}
-</body>
-</html>
+{{ define "main" }}
+    {{- partial "header.html" . -}}
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Date }}</p>
+    {{ .Content }}
+{{end}}
