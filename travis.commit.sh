@@ -14,7 +14,7 @@ commit_website_files() {
 
 upload_files() {
   echo "Push files to master."
-  git push
+  git push origin HEAD:master
 }
 
 setup_git
