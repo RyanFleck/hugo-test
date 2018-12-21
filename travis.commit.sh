@@ -13,8 +13,8 @@ commit_website_files() {
 }
 
 upload_files() {
-  # git remote add origin https://${GH_TOKEN}@github.com/RyanFleck/hugo-test.git
-  git push #--quiet --set-upstream origin master 
+  echo "Push files to master."
+  git push
 }
 
 setup_git
