@@ -15,7 +15,7 @@ commit_website_files() {
   git add .
   echo "Commit build $TRAVIS_BUILD_NUMBER"
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
-  git push 
+  git push --set-upstream origin master 
 }
 
 setup_git
