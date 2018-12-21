@@ -9,16 +9,16 @@ setup_git() {
   git remote rm origin
   git remote add origin https://Travis-CI:${GH_TOKEN}@github.com/RyanFleck/hugo-test.git
   git checkout master
+  git push --set-upstream origin master 
 }
 
 commit_website_files() {
   git add .
   echo "Commit build $TRAVIS_BUILD_NUMBER"
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER [ci skip]"
-  git push --set-upstream origin master 
 }
 
-setup_git
 commit_website_files
+setup_git
 
 exit 0
