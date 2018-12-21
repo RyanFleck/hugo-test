@@ -16,3 +16,7 @@ Triple the content. Neato four.
 ```py
 print('Hello, World!')
 ```
+
+```java
+System.out.println("Hello, World!");
+```
