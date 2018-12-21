@@ -14,7 +14,7 @@ setup_git() {
 commit_website_files() {
   git add .
   echo "Commit build $TRAVIS_BUILD_NUMBER"
-  git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
+  git commit --message "Travis build: $TRAVIS_BUILD_NUMBER [ci skip]"
   git push --set-upstream origin master 
 }
 
