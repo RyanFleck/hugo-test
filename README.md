@@ -2,7 +2,9 @@
 
 [![Build Status](https://travis-ci.org/RyanFleck/hugo-test.svg?branch=master)](https://travis-ci.org/RyanFleck/hugo-test)
 
-Hugo Static Site Generator test. Potential replacement for jekyll. Now has CI/CD.
+Hugo Static Site Generator test. Potential replacement for jekyll.
+
+Now has CI/CD. Hopefully this pattern can be replicated to build sites for friends.
 
 Interesting themes:
 - <https://themes.gohugo.io/theme/osprey/>
