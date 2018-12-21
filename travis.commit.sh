@@ -14,6 +14,7 @@ commit_website_files() {
 
 upload_files() {
   echo "Push files to master."
+  git remote add origin-pages https://${GH_TOKEN}@github.com/RyanFleck/hugo-test.git
   git push origin HEAD:master
 }
 
