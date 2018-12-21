@@ -19,7 +19,8 @@
       <guid>//ryanfleck.github.io/hugo-test/post/experiment-one/</guid>
       <description>Now there is content. Travis should be able to build this automatically.
 Double the content. Neato.
-Triple the content. Neato four.</description>
+Triple the content. Neato four.
+print(&#39;Hello, World!&#39;)  </description>
     </item>
     
     <item>
