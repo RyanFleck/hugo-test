@@ -20,3 +20,5 @@ upload_files() {
 setup_git
 commit_website_files
 upload_files
+
+exit 0
