@@ -9,12 +9,14 @@ setup_git() {
 
 commit_website_files() {
   git add .
+  echo "Commit build $TRAVIS_BUILD_NUMBER"
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
 }
 
 upload_files() {
   echo "Push files to master."
-  git remote add origin https://${GH_TOKEN}@github.com/RyanFleck/hugo-test.git
+  git remote rm origin
+  git remote add origin https://Travis-CI:${GH_TOKEN}@github.com/RyanFleck/hugo-test.git
   git push 
 }
 
