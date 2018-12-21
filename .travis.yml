@@ -7,5 +7,3 @@ script:
 branches:
   only:
     - master
-
-$GH_TOKEN
