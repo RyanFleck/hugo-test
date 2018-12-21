@@ -4,6 +4,7 @@ install:
 script:
   - hugo version
   - make build
+  - make push 
 branches:
   only:
     - master
