@@ -12,3 +12,7 @@ Now there is content. Travis should be able to build this automatically.
 Double the content. Neato.
 
 Triple the content. Neato four.
+
+```py
+print('Hello, World!')
+```
