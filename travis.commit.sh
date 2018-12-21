@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/bin/sh
 
 echo "Pushing updated HUGO site to GitHub."
 
